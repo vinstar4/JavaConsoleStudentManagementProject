@@ -87,9 +87,13 @@ java Main
 * JUnit Testing
 * File Persistence
 * JDBC Integration
-* Search by Name
 * Input Validation Improvements
 
 ## Purpose
 
 This project was created to strengthen understanding of Java fundamentals, OOP principles, collections, and CRUD operations through a practical menu-driven application.
+
+##Screenshot
+
+<img width="1858" height="803" alt="image" src="https://github.com/user-attachments/assets/1bfa870b-81e8-42a3-9563-9707f4cdb9f3" />
+
